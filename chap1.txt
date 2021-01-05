@@ -1,2 +1,2 @@
-hello all, my first file to learn git
+hello all, my first file to learn git, and now i am doing some weird stuff
 
